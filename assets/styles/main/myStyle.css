@@ -1,0 +1,38 @@
+.myContainer {
+    width: 80%;
+    height: 100%;
+    margin: auto;
+}
+
+.hero__carousel-container {
+    display: flex;
+    overflow: hidden;
+}
+
+.slider__container-item {
+    align-content: center;
+    width: 240px;
+    height: 100%;
+}
+
+.img-round {
+    border-radius: 50%;
+    border: 1px solid black;
+    width: 200px;
+    height: 200px;
+}
+
+.my-featuretter-heading-1 {
+    font-size: 1.8rem;
+}
+
+.my-para {
+    font-size: 1.4rem;
+    color: black;
+}
+
+
+.text-bg-blue {
+    color: #fff;
+    background-color: #131673;
+}
